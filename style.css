@@ -135,7 +135,7 @@ div {
         flex-wrap: wrap;
     }
     .hlavni-recept {
-        flex-basis: 33.33%;
+        flex-basis: 33.333%;
     }
     .sloupec {
         display: flex;
